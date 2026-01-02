@@ -1,0 +1,19 @@
+# 需要安装PyTorch 2.8.0+cu129，指令为 pip install --force-reinstall torch==2.8.0+cu129 torchvision torchaudio -i https://pypi.tuna.tsinghua.edu.cn/simple --extra-index-url https://download.pytorch.org/whl/cu129
+
+# 必须依赖
+flask
+fastapi
+uvicorn
+torch
+rwkv
+setuptools
+numpy
+pydantic
+sse-starlette
+tokenizers
+safetensors
+psutil
+python-multipart
+Cython
+jinja2
+

@@ -1,0 +1,1118 @@
+2026-01-02 14:10:35,134 - INFO
+Client: Address(host='127.0.0.1', port=12508)
+Url: http://127.0.0.1:8889/
+Body: b''
+
+2026-01-02 14:14:22,727 - INFO
+Client: Address(host='127.0.0.1', port=1128)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:27,206 - INFO
+Client: Address(host='127.0.0.1', port=7501)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:32,218 - INFO
+Client: Address(host='127.0.0.1', port=11845)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:37,226 - INFO
+Client: Address(host='127.0.0.1', port=14523)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:42,226 - INFO
+Client: Address(host='127.0.0.1', port=1801)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:47,219 - INFO
+Client: Address(host='127.0.0.1', port=12489)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:47,578 - INFO
+Client: Address(host='127.0.0.1', port=12500)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:52,234 - INFO
+Client: Address(host='127.0.0.1', port=6647)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:14:57,215 - INFO
+Client: Address(host='127.0.0.1', port=6036)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:02,221 - INFO
+Client: Address(host='127.0.0.1', port=11092)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:07,226 - INFO
+Client: Address(host='127.0.0.1', port=13073)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:12,210 - INFO
+Client: Address(host='127.0.0.1', port=14364)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:16,786 - INFO
+Client: Address(host='127.0.0.1', port=1351)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:17,222 - INFO
+Client: Address(host='127.0.0.1', port=1352)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:22,219 - INFO
+Client: Address(host='127.0.0.1', port=2101)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:27,219 - INFO
+Client: Address(host='127.0.0.1', port=9978)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:32,221 - INFO
+Client: Address(host='127.0.0.1', port=6489)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:37,217 - INFO
+Client: Address(host='127.0.0.1', port=8568)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:42,193 - INFO
+Client: Address(host='127.0.0.1', port=8520)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:47,230 - INFO
+Client: Address(host='127.0.0.1', port=14012)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:15:52,212 - INFO
+Client: Address(host='127.0.0.1', port=8739)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:22,263 - INFO
+Client: Address(host='127.0.0.1', port=2323)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:27,220 - INFO
+Client: Address(host='127.0.0.1', port=2686)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:32,234 - INFO
+Client: Address(host='127.0.0.1', port=2428)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:37,228 - INFO
+Client: Address(host='127.0.0.1', port=11485)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:42,230 - INFO
+Client: Address(host='127.0.0.1', port=8918)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:47,202 - INFO
+Client: Address(host='127.0.0.1', port=7467)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:52,199 - INFO
+Client: Address(host='127.0.0.1', port=5716)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:16:57,222 - INFO
+Client: Address(host='127.0.0.1', port=6479)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:02,223 - INFO
+Client: Address(host='127.0.0.1', port=3791)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:07,228 - INFO
+Client: Address(host='127.0.0.1', port=2479)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:12,218 - INFO
+Client: Address(host='127.0.0.1', port=10587)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:17,117 - INFO
+Client: Address(host='127.0.0.1', port=5790)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:17,225 - INFO
+Client: Address(host='127.0.0.1', port=5791)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:22,215 - INFO
+Client: Address(host='127.0.0.1', port=13763)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:27,216 - INFO
+Client: Address(host='127.0.0.1', port=4333)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:32,206 - INFO
+Client: Address(host='127.0.0.1', port=10443)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:37,213 - INFO
+Client: Address(host='127.0.0.1', port=10159)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:42,207 - INFO
+Client: Address(host='127.0.0.1', port=14506)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:47,203 - INFO
+Client: Address(host='127.0.0.1', port=1713)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:52,219 - INFO
+Client: Address(host='127.0.0.1', port=14805)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:17:57,207 - INFO
+Client: Address(host='127.0.0.1', port=1328)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:02,202 - INFO
+Client: Address(host='127.0.0.1', port=8436)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:07,226 - INFO
+Client: Address(host='127.0.0.1', port=8266)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:12,217 - INFO
+Client: Address(host='127.0.0.1', port=13063)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:16,805 - INFO
+Client: Address(host='127.0.0.1', port=11564)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:17,223 - INFO
+Client: Address(host='127.0.0.1', port=11565)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:22,200 - INFO
+Client: Address(host='127.0.0.1', port=13132)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:26,970 - INFO
+Client: Address(host='127.0.0.1', port=3088)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:27,218 - INFO
+Client: Address(host='127.0.0.1', port=3089)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:27,576 - INFO
+Client: Address(host='127.0.0.1', port=3093)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:30,020 - INFO
+Client: Address(host='127.0.0.1', port=3101)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:32,228 - INFO
+Client: Address(host='127.0.0.1', port=1543)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:34,706 - INFO
+Client: Address(host='127.0.0.1', port=1545)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:37,224 - INFO
+Client: Address(host='127.0.0.1', port=10720)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:40,028 - INFO
+Client: Address(host='127.0.0.1', port=10726)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:42,210 - INFO
+Client: Address(host='127.0.0.1', port=3632)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:43,716 - INFO
+Client: Address(host='127.0.0.1', port=3636)
+Url: http://localhost:8888/completions
+Body: b'{"model": "rwkv7-g1b-1.5b-20251202-ctx8192", "prompt": "\\nUser: \\u4f60\\u597d\\uff1f\\nAssistant:", "max_tokens": 1000, "temperature": 0.7, "top_p": 0.3, "stream": true}'
+
+2026-01-02 14:18:45,025 - INFO
+Client: Address(host='127.0.0.1', port=3638)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:47,210 - INFO
+Client: Address(host='127.0.0.1', port=6640)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:50,022 - INFO
+Client: Address(host='127.0.0.1', port=6656)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:52,194 - INFO
+Client: Address(host='127.0.0.1', port=9591)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:54,702 - INFO
+Client: Address(host='127.0.0.1', port=9596)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:18:57,227 - INFO
+Client: Address(host='127.0.0.1', port=5808)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:00,015 - INFO
+Client: Address(host='127.0.0.1', port=5817)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:02,210 - INFO
+Client: Address(host='127.0.0.1', port=8240)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:04,711 - INFO
+Client: Address(host='127.0.0.1', port=8249)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:07,220 - INFO
+Client: Address(host='127.0.0.1', port=13083)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:10,011 - INFO
+Client: Address(host='127.0.0.1', port=13089)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:12,198 - INFO
+Client: Address(host='127.0.0.1', port=2269)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:14,720 - INFO
+Client: Address(host='127.0.0.1', port=2271)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:17,211 - INFO
+Client: Address(host='127.0.0.1', port=2414)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:20,035 - INFO
+Client: Address(host='127.0.0.1', port=2432)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:22,219 - INFO
+Client: Address(host='127.0.0.1', port=8705)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:24,691 - INFO
+Client: Address(host='127.0.0.1', port=8714)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:25,332 - INFO
+Client: Address(host='127.0.0.1', port=6146)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:27,202 - INFO
+Client: Address(host='127.0.0.1', port=6148)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:27,423 - INFO
+Client: Address(host='127.0.0.1', port=6149)
+Url: http://localhost:8888/switch-model
+Body: b'{"model": "c:/Users/Lynlane/Desktop/RWKV-runner/models/rwkv7-g1b-1.5b-20251202-ctx8192.pth", "strategy": "cuda fp16", "tokenizer": "", "customCuda": false}'
+
+2026-01-02 14:19:30,006 - INFO
+Client: Address(host='127.0.0.1', port=6153)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:32,217 - INFO
+Client: Address(host='127.0.0.1', port=9954)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:35,020 - INFO
+Client: Address(host='127.0.0.1', port=9961)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:36,953 - INFO
+Client: Address(host='127.0.0.1', port=10379)
+Url: http://localhost:8888/update-config
+Body: b'{"state": "c:/Users/Lynlane/Desktop/RWKV-runner/models/rwkv-state-tuning-NekoQA-10K-1.5B.pth"}'
+
+2026-01-02 14:19:37,232 - INFO
+Client: Address(host='127.0.0.1', port=10380)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:39,995 - INFO
+Client: Address(host='127.0.0.1', port=10389)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:42,225 - INFO
+Client: Address(host='127.0.0.1', port=13973)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:43,187 - INFO
+Client: Address(host='127.0.0.1', port=13977)
+Url: http://localhost:8888/completions
+Body: b'{"model": "rwkv7-g1b-1.5b-20251202-ctx8192", "prompt": "\\nUser: \\u4f60\\u597d\\uff1f\\nAssistant:", "max_tokens": 1000, "temperature": 0.7, "top_p": 0.3, "stream": true}'
+
+2026-01-02 14:19:43,190 - INFO
+Client: Address(host='127.0.0.1', port=13977)
+Url: http://localhost:8888/completions
+Data:
+Start Waiting. RequestsNum: 1
+
+2026-01-02 14:19:43,204 - INFO
+Client: 
+Url: 
+Data:
+Generation Prompt:
+
+User: 你好？
+Assistant:
+
+2026-01-02 14:19:43,807 - INFO
+Client: Address(host='127.0.0.1', port=13977)
+Url: http://localhost:8888/completions
+Body: {"max_tokens": 1000, "temperature": 0.7, "top_p": 0.3, "presence_penalty": null, "frequency_penalty": null, "penalty_decay": null, "top_k": null, "global_penalty": null, "state": null, "prompt": "\nUser: 你好？\nAssistant:", "model": "rwkv7-g1b-1.5b-20251202-ctx8192", "stream": true, "stop": null}
+Data:
+ 喵~主人好呀！
+Finished. RequestsNum: 0
+
+2026-01-02 14:19:45,027 - INFO
+Client: Address(host='127.0.0.1', port=13978)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:47,207 - INFO
+Client: Address(host='127.0.0.1', port=5438)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:50,024 - INFO
+Client: Address(host='127.0.0.1', port=5458)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:52,207 - INFO
+Client: Address(host='127.0.0.1', port=1033)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:54,700 - INFO
+Client: Address(host='127.0.0.1', port=1039)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:19:57,225 - INFO
+Client: Address(host='127.0.0.1', port=5136)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:00,017 - INFO
+Client: Address(host='127.0.0.1', port=5146)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:01,198 - INFO
+Client: Address(host='127.0.0.1', port=2198)
+Url: http://localhost:8888/completions
+Body: b'{"model": "rwkv7-g1b-1.5b-20251202-ctx8192", "prompt": "\\nUser: \\u597d\\u8036\\uff01\\u4f60\\u80fd\\u8bf4\\u8bdd\\u4e86\\uff01\\nAssistant:", "max_tokens": 1000, "temperature": 0.7, "top_p": 0.3, "stream": true}'
+
+2026-01-02 14:20:01,198 - INFO
+Client: Address(host='127.0.0.1', port=2198)
+Url: http://localhost:8888/completions
+Data:
+Start Waiting. RequestsNum: 1
+
+2026-01-02 14:20:01,205 - INFO
+Client: 
+Url: 
+Data:
+Generation Prompt:
+
+User: 好耶！你能说话了！
+Assistant:
+
+2026-01-02 14:20:02,295 - INFO
+Client: Address(host='127.0.0.1', port=2200)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:04,481 - INFO
+Client: Address(host='127.0.0.1', port=2198)
+Url: http://localhost:8888/completions
+Body: {"max_tokens": 1000, "temperature": 0.7, "top_p": 0.3, "presence_penalty": null, "frequency_penalty": null, "penalty_decay": null, "top_k": null, "global_penalty": null, "state": null, "prompt": "\nUser: 好耶！你能说话了！\nAssistant:", "model": "rwkv7-g1b-1.5b-20251202-ctx8192", "stream": true, "stop": null}
+Data:
+ 喵~主人夸奖的话，尾巴都要翘起来了啦！*开心地摇着尾巴蹭蹭主人* 
+
+其实...我一直都知道主人是最棒的呢！每天早上看到你，就想和你一起玩耍，一起工作。虽然有时候会调皮捣蛋，但是最听主人的话啦~
+Finished. RequestsNum: 0
+
+2026-01-02 14:20:05,001 - INFO
+Client: Address(host='127.0.0.1', port=2207)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:07,215 - INFO
+Client: Address(host='127.0.0.1', port=8952)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:10,025 - INFO
+Client: Address(host='127.0.0.1', port=8961)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:12,208 - INFO
+Client: Address(host='127.0.0.1', port=5781)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:14,703 - INFO
+Client: Address(host='127.0.0.1', port=5783)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:17,204 - INFO
+Client: Address(host='127.0.0.1', port=13986)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:20,008 - INFO
+Client: Address(host='127.0.0.1', port=14002)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:22,205 - INFO
+Client: Address(host='127.0.0.1', port=2662)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:24,705 - INFO
+Client: Address(host='127.0.0.1', port=2665)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:27,215 - INFO
+Client: Address(host='127.0.0.1', port=10252)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:30,009 - INFO
+Client: Address(host='127.0.0.1', port=10258)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:32,189 - INFO
+Client: Address(host='127.0.0.1', port=4505)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:34,717 - INFO
+Client: Address(host='127.0.0.1', port=4507)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:37,249 - INFO
+Client: Address(host='127.0.0.1', port=6359)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:40,021 - INFO
+Client: Address(host='127.0.0.1', port=6365)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:42,207 - INFO
+Client: Address(host='127.0.0.1', port=1101)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:44,806 - INFO
+Client: Address(host='127.0.0.1', port=1106)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:47,216 - INFO
+Client: Address(host='127.0.0.1', port=3613)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:50,119 - INFO
+Client: Address(host='127.0.0.1', port=3636)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:52,191 - INFO
+Client: Address(host='127.0.0.1', port=8000)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:54,798 - INFO
+Client: Address(host='127.0.0.1', port=8003)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:20:57,229 - INFO
+Client: Address(host='127.0.0.1', port=3809)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:00,129 - INFO
+Client: Address(host='127.0.0.1', port=3818)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:02,224 - INFO
+Client: Address(host='127.0.0.1', port=12080)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:04,808 - INFO
+Client: Address(host='127.0.0.1', port=12091)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:07,211 - INFO
+Client: Address(host='127.0.0.1', port=9277)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:10,091 - INFO
+Client: Address(host='127.0.0.1', port=9283)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:12,224 - INFO
+Client: Address(host='127.0.0.1', port=1497)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:14,797 - INFO
+Client: Address(host='127.0.0.1', port=1499)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:17,232 - INFO
+Client: Address(host='127.0.0.1', port=9757)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:20,111 - INFO
+Client: Address(host='127.0.0.1', port=9774)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:22,218 - INFO
+Client: Address(host='127.0.0.1', port=9099)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:24,790 - INFO
+Client: Address(host='127.0.0.1', port=9104)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:27,217 - INFO
+Client: Address(host='127.0.0.1', port=2171)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:30,109 - INFO
+Client: Address(host='127.0.0.1', port=2177)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:32,222 - INFO
+Client: Address(host='127.0.0.1', port=4557)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:34,807 - INFO
+Client: Address(host='127.0.0.1', port=4559)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:37,203 - INFO
+Client: Address(host='127.0.0.1', port=6395)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:40,089 - INFO
+Client: Address(host='127.0.0.1', port=6401)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:42,226 - INFO
+Client: Address(host='127.0.0.1', port=14885)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:47,212 - INFO
+Client: Address(host='127.0.0.1', port=4937)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:52,207 - INFO
+Client: Address(host='127.0.0.1', port=7658)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:21:57,217 - INFO
+Client: Address(host='127.0.0.1', port=5317)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:02,227 - INFO
+Client: Address(host='127.0.0.1', port=1579)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:07,225 - INFO
+Client: Address(host='127.0.0.1', port=5414)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:12,211 - INFO
+Client: Address(host='127.0.0.1', port=12393)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:16,800 - INFO
+Client: Address(host='127.0.0.1', port=10952)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:17,193 - INFO
+Client: Address(host='127.0.0.1', port=10953)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:22,209 - INFO
+Client: Address(host='127.0.0.1', port=4341)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:27,219 - INFO
+Client: Address(host='127.0.0.1', port=14814)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:32,223 - INFO
+Client: Address(host='127.0.0.1', port=4608)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:37,223 - INFO
+Client: Address(host='127.0.0.1', port=14826)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:42,198 - INFO
+Client: Address(host='127.0.0.1', port=2186)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:47,195 - INFO
+Client: Address(host='127.0.0.1', port=3193)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:52,233 - INFO
+Client: Address(host='127.0.0.1', port=13284)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:22:57,222 - INFO
+Client: Address(host='127.0.0.1', port=1413)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:02,197 - INFO
+Client: Address(host='127.0.0.1', port=13318)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:07,217 - INFO
+Client: Address(host='127.0.0.1', port=8165)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:12,226 - INFO
+Client: Address(host='127.0.0.1', port=9813)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:17,094 - INFO
+Client: Address(host='127.0.0.1', port=1280)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:17,217 - INFO
+Client: Address(host='127.0.0.1', port=1281)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:22,216 - INFO
+Client: Address(host='127.0.0.1', port=13273)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:27,213 - INFO
+Client: Address(host='127.0.0.1', port=10639)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:32,232 - INFO
+Client: Address(host='127.0.0.1', port=5987)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:37,227 - INFO
+Client: Address(host='127.0.0.1', port=12006)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:42,203 - INFO
+Client: Address(host='127.0.0.1', port=9350)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:47,222 - INFO
+Client: Address(host='127.0.0.1', port=8282)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:52,206 - INFO
+Client: Address(host='127.0.0.1', port=10299)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:23:57,213 - INFO
+Client: Address(host='127.0.0.1', port=2945)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:02,202 - INFO
+Client: Address(host='127.0.0.1', port=8663)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:07,216 - INFO
+Client: Address(host='127.0.0.1', port=3503)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:12,216 - INFO
+Client: Address(host='127.0.0.1', port=7505)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:16,799 - INFO
+Client: Address(host='127.0.0.1', port=11033)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:17,235 - INFO
+Client: Address(host='127.0.0.1', port=11034)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:22,233 - INFO
+Client: Address(host='127.0.0.1', port=10929)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:27,232 - INFO
+Client: Address(host='127.0.0.1', port=12003)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:32,218 - INFO
+Client: Address(host='127.0.0.1', port=6206)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:37,203 - INFO
+Client: Address(host='127.0.0.1', port=12996)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:42,229 - INFO
+Client: Address(host='127.0.0.1', port=7529)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:47,227 - INFO
+Client: Address(host='127.0.0.1', port=2874)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:52,223 - INFO
+Client: Address(host='127.0.0.1', port=4552)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:24:57,228 - INFO
+Client: Address(host='127.0.0.1', port=7711)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:02,228 - INFO
+Client: Address(host='127.0.0.1', port=10027)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:07,228 - INFO
+Client: Address(host='127.0.0.1', port=10266)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:12,284 - INFO
+Client: Address(host='127.0.0.1', port=12754)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:17,128 - INFO
+Client: Address(host='127.0.0.1', port=12687)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:17,205 - INFO
+Client: Address(host='127.0.0.1', port=12688)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:22,803 - INFO
+Client: Address(host='127.0.0.1', port=4241)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:27,782 - INFO
+Client: Address(host='127.0.0.1', port=10043)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:32,807 - INFO
+Client: Address(host='127.0.0.1', port=8972)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:37,787 - INFO
+Client: Address(host='127.0.0.1', port=14102)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:42,800 - INFO
+Client: Address(host='127.0.0.1', port=3212)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:47,798 - INFO
+Client: Address(host='127.0.0.1', port=11064)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:52,799 - INFO
+Client: Address(host='127.0.0.1', port=4319)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:25:57,814 - INFO
+Client: Address(host='127.0.0.1', port=9176)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:26:02,787 - INFO
+Client: Address(host='127.0.0.1', port=13827)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:26:07,809 - INFO
+Client: Address(host='127.0.0.1', port=2543)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:26:12,796 - INFO
+Client: Address(host='127.0.0.1', port=4955)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:26:16,814 - INFO
+Client: Address(host='127.0.0.1', port=4957)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:27:13,809 - INFO
+Client: Address(host='127.0.0.1', port=12588)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:27:17,118 - INFO
+Client: Address(host='127.0.0.1', port=12598)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:28:14,818 - INFO
+Client: Address(host='127.0.0.1', port=5952)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:28:16,797 - INFO
+Client: Address(host='127.0.0.1', port=5953)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:29:15,817 - INFO
+Client: Address(host='127.0.0.1', port=12652)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:29:17,110 - INFO
+Client: Address(host='127.0.0.1', port=12653)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:29:57,879 - INFO
+Client: Address(host='127.0.0.1', port=9248)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:02,221 - INFO
+Client: Address(host='127.0.0.1', port=5553)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:07,228 - INFO
+Client: Address(host='127.0.0.1', port=12567)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:12,220 - INFO
+Client: Address(host='127.0.0.1', port=12359)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:16,797 - INFO
+Client: Address(host='127.0.0.1', port=4324)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:17,219 - INFO
+Client: Address(host='127.0.0.1', port=4325)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:22,222 - INFO
+Client: Address(host='127.0.0.1', port=8423)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:27,225 - INFO
+Client: Address(host='127.0.0.1', port=9788)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:32,229 - INFO
+Client: Address(host='127.0.0.1', port=4211)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:37,204 - INFO
+Client: Address(host='127.0.0.1', port=5739)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:42,215 - INFO
+Client: Address(host='127.0.0.1', port=2788)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:47,221 - INFO
+Client: Address(host='127.0.0.1', port=6556)
+Url: http://localhost:8888/status
+Body: b''
+
+2026-01-02 14:30:52,223 - INFO
+Client: Address(host='127.0.0.1', port=2060)
+Url: http://localhost:8888/status
+Body: b''
+
