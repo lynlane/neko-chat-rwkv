@@ -102,7 +102,7 @@ def restart_model():
         
         # 使用相同的模型路径和策略重启模型
         restart_data = {
-            "model": "c:/Users/Lynlane/Desktop/RWKV-runner/models/rwkv7-g1b-1.5b-20251202-ctx8192.pth",
+            "model": "./models/rwkv7-g1b-1.5b-20251202-ctx8192.pth",
             "strategy": "cuda fp16",
             "tokenizer": "",
             "customCuda": False
@@ -117,7 +117,7 @@ def restart_model():
         
         if response.status_code == 200:
             # 应用状态调优
-            state_tuning_path = "c:/Users/Lynlane/Desktop/RWKV-runner/models/rwkv-state-tuning-NekoQA-10K-1.5B.pth"
+            state_tuning_path = "./models/rwkv-state-tuning-NekoQA-10K-1.5B.pth"
             update_config_data = {
                 "state": state_tuning_path
             }
